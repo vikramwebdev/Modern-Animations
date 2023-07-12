@@ -1,2 +1,2 @@
-# Modern-Animations
-Created Modern-Animations Landing Page With HTML, CSS and JS
+# Animations Page
+Created Animation Landing Page With HTML, CSS and JS
